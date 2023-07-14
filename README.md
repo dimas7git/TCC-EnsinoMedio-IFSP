@@ -1,4 +1,4 @@
-# Proteção contra Pendrives Infectados - TCC Ensino Médio - PsPen
+# Proteção contra Pendrives Infectados - TCC Ensino Médio - PsPen 
 
 
 Este projeto é o resultado do trabalho desenvolvido durante o Ensino Médio em parceria com meu colega Darryê. Trata-se de um software em C# que visa proteger computadores contra pendrives infectados. Estou entusiasmado em compartilhar este projeto com vocês.
